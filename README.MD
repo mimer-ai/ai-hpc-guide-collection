@@ -14,26 +14,26 @@ For most repositories, we are not the owner. We reference to them but have no co
 ## AI Container / Software environments on HPC
 | Topic | What Guide | Notes |
 |-------|------------|-------|
-| PyTorch container on LUMI supercomputer | [Lumi-supercomputer/LUMI-AI-Guide (Sections 1+2)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide) | – |
+| PyTorch container | [Lumi-supercomputer/LUMI-AI-Guide (Sections 1+2)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide) | Guide for LUMI |
 
 
 ## Data on Lustre
 | Topic | What Guide | Notes |
 |-------|------------|-------|
-| File Formats | [Lumi-supercomputer/LUMI-AI-Guide (Section 3)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/3-file-formats) | |
-| Data Storage | [Lumi-supercomputer/LUMI-AI-Guide (Section 4)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/4-data-storage) | |
+| File Formats | [Lumi-supercomputer/LUMI-AI-Guide (Section 3)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/3-file-formats) | Guide for LUMI |
+| Data Storage | [Lumi-supercomputer/LUMI-AI-Guide (Section 4)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/4-data-storage) | Guide for LUMI |
 
 ## Multi GPU and Node Training
 | Topic | What Guide | Notes |
 |-------|------------|-------|
-| PyTorch DDP | [Lumi-supercomputer/LUMI-AI-Guide (Section 5)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/5-multi-gpu-and-node) | |
-| PyTorch DeepSpeed | [Lumi-supercomputer/LUMI-AI-Guide (Section 5)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/5-multi-gpu-and-node) | |
-| Huggingface Accelerate | [CSCfi/llm-fine-tuning-examples](https://github.com/CSCfi/llm-fine-tuning-examples) | Code snippets, not full guide|
+| PyTorch DDP | [Lumi-supercomputer/LUMI-AI-Guide (Section 5)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/5-multi-gpu-and-node) | Guide for LUMI |
+| PyTorch DeepSpeed | [Lumi-supercomputer/LUMI-AI-Guide (Section 5)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/5-multi-gpu-and-node) | Guide for LUMI |
+| Huggingface Accelerate | [CSCfi/llm-fine-tuning-examples](https://github.com/CSCfi/llm-fine-tuning-examples) | Code snippets for LUMI and Mahti |
  
 ## Profiling
 | Topic | What Guide | Notes |
 |--------|------------|-------|
-| ROCm-SMI on LUMI | [Lumi-supercomputer/LUMI-AI-Guide (Section 6)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/6-monitoring-and-profiling) | |
+| ROCm-SMI on LUMI | [Lumi-supercomputer/LUMI-AI-Guide (Section 6)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/6-monitoring-and-profiling) | Guide for LUMI |
 | PyTorch Profiler | [Lumi-supercomputer/LUMI-AI-Guide (Section 6)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/6-monitoring-and-profiling) | |
 
 ## Hyperparameter optimization
@@ -45,7 +45,7 @@ For most repositories, we are not the owner. We reference to them but have no co
 | Topic | What Guide | Notes |
 |--------|------------|-------|
 | Tensor Board | [Lumi-supercomputer/LUMI-AI-Guide (Section 7)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/7-TensorBoard-visualization) | |
-| ML Flow | [Lumi-supercomputer/LUMI-AI-Guide (Section 8)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/8-MLflowlization) | |
+| ML Flow | [docs.csc.fi/support/tutorials/ml-workflows/](https://docs.csc.fi/support/tutorials/ml-workflows/#mlflow); [Lumi-supercomputer/LUMI-AI-Guide (Section 8)](https://github.com/Lumi-supercomputer/LUMI-AI-Guide/tree/main/8-MLflowlization) | Guides for LUMI and Mahti |
 
 
 ## Inference
@@ -65,7 +65,7 @@ For most repositories, we are not the owner. We reference to them but have no co
 ## Evaluation frameworks
 | Topic | What Guide | Notes |
 |--------|------------|-------|
-| LM Eval Harness on LUMI | [LumiOpen/lm-evaluation-harness](https://github.com/LumiOpen/lm-evaluation-harness) | Seems like a relevant fork |
+| LM Eval Harness on LUMI | [LumiOpen/lm-evaluation-harness](https://github.com/LumiOpen/lm-evaluation-harness) | Seems like a relevant fork for LUMI |
 
 
 ## Relevant topics where no material has been found
