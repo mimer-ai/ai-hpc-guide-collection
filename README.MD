@@ -54,6 +54,14 @@ For most repositories, we are not the owner. We reference to them but have no co
 | vLLM | [CSCfi/ai-inference-examples](https://github.com/CSCfi/ai-inference-examples) | Code snippets, not full guide |
 | ollama | [CSCfi/ai-inference-examples](https://github.com/CSCfi/ai-inference-examples) | Code snippets, not full guide |
 
+## Quantization
+
+| Topic | What Guide | Notes |
+|--------|------------|-------|
+| AWQ (Activation-aware Weight Quantization)  |  [docs.csc.fi/support/tutorials/ml-llm/](https://docs.csc.fi/support/tutorials/ml-llm/#using-awq-quantization-via-llm-compressor); [CSCfi/llm-quantization-scripts](https://github.com/CSCfi/llm-quantization-scripts) | Examples for LUMI and Mahti |
+| BitsandBytes  | [docs.csc.fi/support/tutorials/ml-llm/](https://docs.csc.fi/support/tutorials/ml-llm/#using-bitsandbytes-quantization); [CSCfi/llm-quantization-scripts](https://github.com/CSCfi/llm-quantization-scripts) | Examples for LUMI and Mahti |
+| GPTQ (Gradient Post-training Quantization)  | [docs.csc.fi/support/tutorials/ml-llm/](https://docs.csc.fi/support/tutorials/ml-llm/#using-gptq-quantization); [CSCfi/llm-quantization-scripts](https://github.com/CSCfi/llm-quantization-scripts) | Examples for LUMI and Mahti|
+
 ## Evaluation frameworks
 | Topic | What Guide | Notes |
 |--------|------------|-------|
