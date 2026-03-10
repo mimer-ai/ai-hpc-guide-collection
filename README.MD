@@ -86,4 +86,3 @@ For most repositories, we are not the owner. We reference to them but have no co
 - [ENCCS/castiel-multi-gpu-ai](https://github.com/ENCCS/castiel-multi-gpu-ai)
 - [openhackathons-org/End-to-End-AI-for-Science/tree/main/workspace/python](https://github.com/openhackathons-org/End-to-End-AI-for-Science/tree/main/workspace/python)
 - [olcf/ai-training-series](https://github.com/olcf/ai-training-series)
-g
